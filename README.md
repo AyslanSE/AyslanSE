@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in Xml and C# application
 - 💞️ I’m looking to collaborate on anything that interests me
 - 📫 How to reach me:
-  -  my email: contact.PressStartOficia@gmail.com
+  -  my email: contact.pressstartoficial@gmail.com
   -  my Telegram: @ PressStart1390
   -  phone number: +55 (79) 99986-4117
 
