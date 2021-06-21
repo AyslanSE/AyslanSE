@@ -3,9 +3,14 @@
 AyslanSE/AyslanSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<body>
-	background-color: red;
-</body>
+<style type="text/css">
+	body{
+		background-image: url(https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/binarygif.gif);
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+</style>
+
 <center><h1> Hello! My name Ayslan Vieira Fontes </h1></center>
 <img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="400px" align="right" alt="ayslan computer" style="max-width:100%;">
 <h3> 
