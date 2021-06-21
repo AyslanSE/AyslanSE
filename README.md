@@ -9,3 +9,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <img scr " https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="400px" align="right">
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="iuriCode computer" style="max-width:100%;">
