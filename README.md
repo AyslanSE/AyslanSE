@@ -1,11 +1,5 @@
+<div style="background-image: url(https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png);">
 
-<!---
-AyslanSE/AyslanSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<div style="background-image: url(https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/binarygif.gif)">
-</div>
 <center>
 	<h1> Hello! My name Ayslan Vieira Fontes </h1>
 </center>
