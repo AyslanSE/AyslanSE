@@ -7,12 +7,7 @@ You can click the Preview link to take a look at your changes.
 <center><h1> Hello! My name Ayslan Vieira Fontes </h1></center>
 <img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="400px" align="right" alt="ayslan computer" style="max-width:100%;">
 <h3> 
-	I'm a Brazilian game developer, use UnityEngine, and program in C # 
-	<br>
-	
-	<br>
-
-	<br> contat us: </h3>
+	I'm a Brazilian game developer, use UnityEngine, and program in C # </h3>
 
 <!-- links de contatação -->
 <a href="https://wa.me/557999864117" alt="WhatsApp" rel="nofollow"> <!-- whatsapp contato-->
