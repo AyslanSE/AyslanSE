@@ -3,7 +3,11 @@
 </center>
 
 <img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="400px" align="right" alt="ayslan computer" style="max-width:100%;">
-<h3> I'm a Brazilian game developer, use UnityEngine, and program in C# </h3>
+<h4> 
+	I'm a Brazilian game developer, use UnityEngine, and program in C# 
+	<br>
+	I accept freelancers and projects. I'm looking for a job.
+</h4>
 <br>
 
 <p align="left">
