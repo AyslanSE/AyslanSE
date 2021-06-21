@@ -5,6 +5,8 @@
 <img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="400px" align="right" alt="ayslan computer" style="max-width:100%;">
 <h3> I'm a Brazilian game developer, use UnityEngine, and program in C# </h3>
 <br>
+
+<p align="left">
 <h3> Contact me: </h3>
 
 <!-- links de contatação -->
@@ -21,4 +23,4 @@
 	<a href="https://wa.me/557999864117" alt="Instagram" rel="nofollow"> <!-- Instagram contato -->
 		<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/insta.png" width="40px" >
 	</a>
-</p>
+</p></p>
