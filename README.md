@@ -10,15 +10,15 @@
 <!-- links de contatação -->
 <p align="left">
 	<a href="https://wa.me/557999864117" alt="Gmail" rel="nofollow"> <!-- Gmail contato -->
-		<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/mail.png" width="20px" >
+		<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/mail.png" width="50px" >
 	</a>
 	<a href="https://wa.me/557999864117" alt="WhatsApp" rel="nofollow"> <!-- Whatsapp contato -->
-		<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/zap.png" width="20px" >
+		<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/zap.png" width="50px" >
 	</a>
 	<a href="https://wa.me/557999864117" alt="Telegram" rel="nofollow"> <!-- Telegram contato -->
-		<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/tele.png" width="20px" >
+		<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/tele.png" width="50px" >
 	</a>
 	<a href="https://wa.me/557999864117" alt="Instagram" rel="nofollow"> <!-- Instagram contato -->
-		<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/insta.png" width="20px" >
+		<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/insta.png" width="50px" >
 	</a>
 </p>
