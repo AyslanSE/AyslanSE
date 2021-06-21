@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 		background-repeat: no-repeat;
 	}
 </style>
-
+<div style="background-image: url(https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/binarygif.gif)">
 <center><h1> Hello! My name Ayslan Vieira Fontes </h1></center>
 <img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="400px" align="right" alt="ayslan computer" style="max-width:100%;">
 <h3> 
