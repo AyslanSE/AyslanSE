@@ -6,9 +6,8 @@
 <h4> 
 	I'm a Brazilian game developer, use UnityEngine, and program in C# 
 	<br>
-	I accept freelancers and projects. I'm looking for a job.
 	<br>
-	Use as Language: C# with .Net Core and also .Net Framework
+	I accept freelancers and projects. I'm looking for a job.
 	<br>
 	Use as Language: C# with .Net Core and also .Net Framework
 	<br>
