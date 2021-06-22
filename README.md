@@ -1,5 +1,5 @@
 <center>
-	<h1> Hello! My name Ayslan Vieira Fontes </h1>
+	<h1> Hello! My name Ayslan </h1>
 </center>
 
 <img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="400px" align="right" alt="ayslan computer" style="max-width:100%;">
@@ -12,7 +12,7 @@
 	<br>
 	Use as Language: C# with .Net Core and also .Net Framework
 	<br>
-	I develop on Unty Engine, and I've used it in the past RPG Maker, game maker
+	I develop on Unity Engine, RPG Maker and game maker
 </h4>
 <br>
 
