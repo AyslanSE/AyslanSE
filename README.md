@@ -20,7 +20,7 @@
 	<h3> Contact me: </h3>
 	<p align="left">
 		<!-- Gmail contato -->
-		<a href="ayslanse2005@gmail.com" alt="Gmail" rel="nofollow">
+		<a href="mailto:ayslanse2005@gmail.com" alt="Gmail" rel="nofollow">
 			<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/mail.png" width="40px" >
 		</a>
 		<!-- Whatsapp contato -->
