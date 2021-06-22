@@ -20,19 +20,19 @@
 	<h3> Contact me: </h3>
 	<p align="left">
 		<!-- Gmail contato -->
-		<a href="mailto:ayslanse2005@gmail.com" alt="Gmail" rel="nofollow">
+		<a href="mailto:ayslanse2005@gmail.com" target="_blank" alt="Gmail" rel="nofollow">
 			<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/mail.png" width="40px" >
 		</a>
 		<!-- Whatsapp contato -->
-		<a href="https://wa.me/557999864117" alt="WhatsApp" rel="nofollow"> 
+		<a href="https://wa.me/557999864117" target="_blank" alt="WhatsApp" rel="nofollow"> 
 			<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/zap.png" width="40px" >
 		</a>
 		<!-- Telegram contato -->
-		 <a href="https://t.me/PressStart1390" alt="Telegram" rel="nofollow">
+		 <a href="https://t.me/PressStart1390" target="_blank" alt="Telegram" rel="nofollow">
 			<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/tele.png" width="40px" >
 		</a>
 		<!-- Instagram contato -->
-		<a href="https://www.instagram.com/ayslan_se/" alt="Instagram" rel="nofollow"> 
+		<a href="https://www.instagram.com/ayslan_se/" target="_blank" alt="Instagram" rel="nofollow"> 
 			<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/insta.png" width="40px" >
 		</a>
 	</p>
